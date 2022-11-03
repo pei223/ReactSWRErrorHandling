@@ -1,0 +1,30 @@
+{
+  "user-info": {
+    "id": "1234",
+    "name": "test user",
+    "email": "user@test.com"
+  },
+  "todos": {
+    "items": [
+      {
+        "id": "1234",
+        "title": "todo1",
+        "done": false
+      },
+      {
+        "id": "2234",
+        "title": "todo2",
+        "done": true
+      }
+    ],
+    "total": 10
+  },
+  "paramsError": {
+    "message": "Params error",
+    "detail": "400error"
+  },
+  "unexpectedError": {
+    "message": "Unexpected error",
+    "detail": "500error"
+  }
+}
