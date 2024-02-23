@@ -1,10 +1,10 @@
 {
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true 
+    "source.fixAll.eslint": "explicit"
   },
   "[markdown]": {
     "editor.formatOnSave": false
   },
 
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": true
 }
